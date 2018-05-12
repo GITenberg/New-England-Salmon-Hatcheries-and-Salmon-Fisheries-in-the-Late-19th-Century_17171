@@ -1,0 +1,35 @@
+_repo: New-England-Salmon-Hatcheries-and-Salmon-Fisheries-in-the-Late-19th-Century_17171
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2005-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17171'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SH'
+- !lcsh 'Fish hatcheries -- New England'
+- !lcsh 'Salmon -- New England'
+- !lcsh 'Fisheries -- New England'
+tableOfContents: Some Results of the Artificial Propagation of Maine and California
+  Salmon in New England and Canada, Recorded in the Years 1879 and 1880 -- Sketch
+  of the Penobscot Salmon-Breeding Establishment (1883) -- Penning of Salmon in Order
+  to Secure Their Eggs (1884) -- Memoranda Relative to Inclosures for the Confinement
+  of Salmon Drawn from Experience at Bucksport, Penobscot River, Maine (1884) -- Report
+  on the Schoodic Salmon Work of 1884-85 -- Methods Employed at Craig Brook Station
+  in Rearing Young Salmonid Fishes (1893) -- Notes on the Capture of Atlantic Salmon
+  at Sea and in the Coast Waters of the Eastern States (1894)
+title: New England Salmon Hatcheries and Salmon Fisheries in the Late 19th Century
+url: http://www.gutenberg.org/ebooks/17171
